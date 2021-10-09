@@ -1,0 +1,36 @@
+top - 15:51:26 up 17:26,  0 users,  load average: 2.89, 2.87, 3.82
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.0 us,  5.3 sy,  0.0 ni, 76.9 id,  0.4 wa,  0.0 hi,  1.4 si,  0.0 st
+KiB Mem : 26687544 total,  9755968 free,  6357500 used, 10574076 buff/cache
+KiB Swap:        0 total,        0 free,        0 used. 20190616 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    391 runner    20   0   63128  59856   1220 S   0.0  0.2   0:00.03 ex2
+
+top - 15:51:29 up 17:26,  0 users,  load average: 2.66, 2.82, 3.80
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.3 us,  2.2 sy,  0.0 ni, 85.2 id,  0.1 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem : 26687544 total,  9718268 free,  6396008 used, 10573268 buff/cache
+KiB Swap:        0 total,        0 free,        0 used. 20152108 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    391 runner    20   0   72896  69624   1220 S   0.3  0.3   0:00.04 ex2
+
+top - 15:51:32 up 17:27,  0 users,  load average: 2.45, 2.78, 3.78
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.7 us,  3.2 sy,  0.0 ni, 81.8 id,  0.2 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem : 26687544 total,  9698132 free,  6417228 used, 10572184 buff/cache
+KiB Swap:        0 total,        0 free,        0 used. 20130976 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    391 runner    20   0   92432  89160   1220 S   0.3  0.3   0:00.05 ex2
+
+top - 15:51:35 up 17:27,  0 users,  load average: 2.45, 2.78, 3.78
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.3 us,  3.8 sy,  0.0 ni, 76.2 id,  0.1 wa,  0.0 hi,  1.6 si,  0.0 st
+KiB Mem : 26687544 total,  9669192 free,  6446472 used, 10571880 buff/cache
+KiB Swap:        0 total,        0 free,        0 used. 20101732 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+    391 runner    20   0  102200  98928   1220 S   0.7  0.4   0:00.07 ex2
+

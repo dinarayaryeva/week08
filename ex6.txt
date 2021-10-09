@@ -1,0 +1,1 @@
+Since we have 8KB pages, last 13 bits are offset bits. Then first 3 bits are needed to indicate page entry. With 3 bits we can have 2^3 = 8 entries.
